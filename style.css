@@ -1,0 +1,13 @@
+body{
+  background-color: #E4F9F5
+}
+p{
+  display: inline-block;
+  width: 1000px;
+  background-color: red;
+}
+.psedu:hover{
+  display: inline-block;
+  background-color: blue;
+  width: 500px;
+}
